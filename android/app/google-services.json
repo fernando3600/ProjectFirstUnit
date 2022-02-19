@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616892414040",
+    "project_id": "ultima-conexion-981d5",
+    "storage_bucket": "ultima-conexion-981d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616892414040:android:71e2b7d8e39bdf8127b22d",
+        "android_client_info": {
+          "package_name": "com.conexion.ultima_conexion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616892414040-ab6g2mciofvl3di73q3rvqcn6ma72uif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMPUkhRIaQElo3pN1zP91gEuJ03LBHVdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616892414040-ab6g2mciofvl3di73q3rvqcn6ma72uif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
