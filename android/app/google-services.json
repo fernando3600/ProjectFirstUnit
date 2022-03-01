@@ -33,6 +33,35 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616892414040:android:35cc999f4f8920e527b22d",
+        "android_client_info": {
+          "package_name": "com.example.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616892414040-ab6g2mciofvl3di73q3rvqcn6ma72uif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMPUkhRIaQElo3pN1zP91gEuJ03LBHVdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616892414040-ab6g2mciofvl3di73q3rvqcn6ma72uif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
